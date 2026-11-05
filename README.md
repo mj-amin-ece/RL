@@ -29,7 +29,7 @@ jupyter lab
 
 ## Related work
 
-Deep RL is also the core of my M.Sc. thesis on **task offloading in edge computing**, where DQN, DRQN and distributional agents decide which tasks to offload.
+Deep RL is also the core of my M.Sc. thesis on **task offloading for metaverse workloads in end–edge–cloud systems**, where DQN and Dueling DQN agents (one central agent, or one agent per edge server) decide where each task runs.
 
 ## Author
 
